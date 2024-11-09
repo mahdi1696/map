@@ -2,6 +2,8 @@
 
 This project is a simple mapping application built with [React](https://reactjs.org/) and [Vite](https://vitejs.dev/), utilizing the OpenStreetMap API and the [React Leaflet](https://react-leaflet.js.org/) library for map rendering. The app demonstrates basic map functionality, including displaying a map, adding markers, and tracing routes based on location data.
 
+![Demo](https://raw.githubusercontent.com/mahdi1696/map/refs/heads/main/sampleGif/mapg.gif)
+
 ## Features
 
 - **Map Display**: Renders a dynamic map centered on user-defined or default coordinates.
@@ -33,4 +35,3 @@ Clone the repository and install dependencies:
 npm install
 npm dev
 ```
-# map
